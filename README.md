@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a drone (secret project)
 - 🌱 I’m currently learning python3, JS, C and ASM
-- 🥅 2020 Goals: Find a job
+- 🥅 2020 Goal: Find a job
 - 👯 I’m looking to collaborate on security projects
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme] and challenges on [HackerRank][HackerRank]
 
