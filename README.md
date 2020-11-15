@@ -3,12 +3,10 @@
 ## I'm a 42 Student and Developer!
 
 - 🔭 I’m currently working on a drone (secret project)
-- 🌱 I’m currently learning python3, JS, C and ASM
+- 🌱 I’m currently learning python3, JS/TS, C and ASM
 - 🥅 2020 Goal: Find a job
-- 👯 I’m looking to collaborate on security projects
+- 👯 I’m looking to collaborate on security projects or 
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme] and challenges on [HackerRank][HackerRank]
-
-<br />
 
 <!--
 **3rdn4x3l4/3rdn4x3l4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,18 +40,3 @@ Here are some ideas to get you started:
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 [docker]: https://en.wikipedia.org/wiki/Docker_(software)
 [HackerRank]: https://www.hackerrank.com/
-
-<!--
-**plagache/plagache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
