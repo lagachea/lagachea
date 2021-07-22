@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
 [<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />][Vim]
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][version]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />][version]
+[<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />][gitlab]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />][C]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />][C#]
 [<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />][typescript]
-[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />][docker]
+[<img align="left" alt="docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
 [<img align="left" alt="hackerrank" width="26px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"/>][HackerRank]
 
 [linux]: https://lubuntu.fr/
