@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />][gitlab]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />][C]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />][C#]
-[<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" />][python]
+[<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />][typescript]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />][docker]
 [<img align="left" alt="hackerrank" width="26px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"/>][HackerRank]
