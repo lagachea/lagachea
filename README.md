@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a 42 Student and Developer!
-[![alagache's 42 stats](https://badge42.herokuapp.com/api/stats/alagache?privacyName=true&cursus=42&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![alagache's 42 stats](https://badge42.herokuapp.com/api/stats/alagache?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 - 🔭 I’m currently working on a drone (secret project)
 - 🌱 I’m currently learning python3, JS/TS, C and ASM
