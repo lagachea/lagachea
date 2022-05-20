@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
-[<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />][Vim]
+[<img align="left" alt="neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />][neovim]
 [<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />][version]
 [<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />][gitlab]
@@ -23,7 +23,7 @@
 [<img align="left" alt="hackerrank" width="26px" src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg"/>][HackerRank]
 
 [linux]: https://lubuntu.fr/
-[vim]: https://neovim.io/
+[neovim]: https://neovim.io/
 [version]: https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 [github]: https://github.com/
 [gitlab]: https://about.gitlab.com/
