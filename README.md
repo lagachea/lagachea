@@ -3,10 +3,9 @@
 ## I'm a 42 Student and Developer!
 [![alagache's 42 stats](https://badge42.vercel.app/api/v2/cl3dqpv8d001609k34xcybw9c/stats?cursusId=1&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on a drone (secret project)
-- 🌱 I’m currently learning python3, JS/TS, C, C# and ASM
-- 👯 I’m looking to collaborate on security projects
-- ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank]
+I’m currently learning python3, JS/TS, C, C# and ASM
+I’m looking to collaborate on security projects
+I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank]
 
 [<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
 [<img align="left" alt="neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />][neovim]
