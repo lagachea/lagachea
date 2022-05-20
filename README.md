@@ -1,25 +1,12 @@
 ### Hi there 👋
 
 ## I'm a 42 Student and Developer!
-[![alagache's 42 stats](https://badge42.herokuapp.com/api/stats/alagache?privacyName=true&cursus=42&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![alagache's 42 stats](https://badge42.vercel.app/api/v2/cl3dqpv8d001609k34xcybw9c/stats?cursusId=1&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 - 🔭 I’m currently working on a drone (secret project)
 - 🌱 I’m currently learning python3, JS/TS, C, C# and ASM
-- 🥅 2021 Goal: find a goal for 2021
 - 👯 I’m looking to collaborate on security projects
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank]
-
-<!--
-**3rdn4x3l4/3rdn4x3l4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
 
 ### Languages and Tools:
 
