@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 ## I'm a 42 Student and Developer!
-[![alagache's 42 stats](https://badge42.vercel.app/api/v2/cl3dqpv8d001609k34xcybw9c/stats?cursusId=1&coalitionId=2)](https://github.com/JaeSeoKim/badge42)
 
-- I’m currently learning python3, JS/TS, C, C# and ASM
-- I’m looking to collaborate on security projects
-- I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank]
+- I’m currently learning python3, JS/TS, C.
+- I’m looking to collaborate on security, Artificial Intelligence projects.
+- I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank].
 
 [<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
 [<img align="left" alt="neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />][neovim]
@@ -13,7 +12,6 @@
 [<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />][gitlab]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />][C]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />][C#]
 [<img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />][typescript]
 [<img align="left" alt="docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
