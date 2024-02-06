@@ -6,6 +6,8 @@
 - I’m looking to collaborate on security, Artificial Intelligence projects.
 - I love to play [Tryhackme][Tryhackme]/ [root-me][root-me]/ [hackthebox][hackthebox] and challenges on [HackerRank][HackerRank].
 
+You can find my portfolio [here](https://lagachea.github.io/).
+
 [<img align="left" alt="linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
 [<img align="left" alt="neovim" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />][neovim]
 [<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />][version]
